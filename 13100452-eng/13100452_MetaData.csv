@@ -1,0 +1,357 @@
+﻿"Cube Title","Product Id","CANSIM Id",URL,"Cube Notes","Archive Status",Frequency,"Start Reference Period","End Reference Period","Total number of dimensions"
+"Health indicators, two-year period estimates",13100452,105-0502,"https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1310045201",1;56;57;90;91,"ARCHIVED -  a cube publicly available but no longer being updated",Occasional,2007-01-01,2013-01-01,5
+
+"Dimension ID","Dimension name","Dimension Notes","Dimension Definitions"
+1,Geography,2;3,
+2,"Age group",,
+3,Sex,,
+4,Indicators,,
+5,Characteristics,50;51;52;53;54;71;84;87,
+
+"Dimension ID","Member Name","Classification Code","Member ID","Parent Member ID",Terminated,"Member Notes","Member Definitions"
+1,Canada,[0],1,,,,
+1,"Newfoundland and Labrador",[10],2,1,,,
+1,"Eastern Regional Integrated Health Authority, Newfoundland and Labrador",[1011-C],3,2,,,
+1,"Central Regional Integrated Health Authority, Newfoundland and Labrador",[1012-I],4,2,,,
+1,"Western Regional Integrated Health Authority, Newfoundland and Labrador",[1013-I],5,2,,,
+1,"Labrador-Grenfell Regional Integrated Health Authority, Newfoundland and Labrador",[1014-H],6,2,,,
+1,"Prince Edward Island",[11],7,1,,4,
+1,"Nova Scotia",[12],12,1,,5,
+1,"South Shore/South West Nova, Nova Scotia",[1210-C],13,12,,5,
+1,"Annapolis Valley District Health Authority, Nova Scotia",[1223-C],14,12,,5,
+1,"Colchester East Hants/Cumberland, Nova Scotia",[1230-C],15,12,,5,
+1,"Pictou County/Guysborough Antigonish Strait, Nova Scotia",[1240-C],16,12,,5,
+1,"Cape Breton District Health Authority, Nova Scotia",[1258-I],17,12,,5,
+1,"Capital District Health Authority, Nova Scotia",[1269-A],18,12,,5,
+1,"New Brunswick",[13],29,1,,6,
+1,"Zone 1 (Moncton area), New Brunswick",[1301-C],30,29,,6,
+1,"Zone 2 (Saint John area), New Brunswick",[1302-C],31,29,,6,
+1,"Zone 3 (Fredericton area), New Brunswick",[1303-C],32,29,,6,
+1,"Zone 4 (Edmundston area), New Brunswick",[1304-C],33,29,,6,
+1,"Zone 5 (Campbellton area), New Brunswick",[1305-I],34,29,,6,
+1,"Zone 6 (Bathurst area), New Brunswick",[1306-I],35,29,,6,
+1,"Zone 7 (Miramichi area), New Brunswick",[1307-I],36,29,,6,
+1,Quebec,[24],37,1,,7,
+1,"Région du Bas-Saint-Laurent, Quebec",[2401-C],38,37,,,
+1,"Région du Saguenay - Lac-Saint-Jean, Quebec",[2402-C],39,37,,,
+1,"Région de la Capitale-Nationale, Quebec",[2403-A],40,37,,,
+1,"Région de la Mauricie et du Centre-du-Québec, Quebec",[2404-C],41,37,,,
+1,"Région de l'Estrie, Quebec",[2405-A],42,37,,,
+1,"Région de Montréal, Quebec",[2406-G],43,37,,,
+1,"Région de l'Outaouais, Quebec",[2407-A],44,37,,,
+1,"Région de l'Abitibi-Témiscamingue, Quebec",[2408-C],45,37,,,
+1,"Région de la Côte-Nord, Quebec",[2409-H],46,37,,,
+1,"Région du Nord-du-Québec, Quebec",[2410-H],47,37,,,
+1,"Région de la Gaspésie - Îles-de-la-Madeleine, Quebec",[2411-I],48,37,,,
+1,"Région de la Chaudière-Appalaches, Quebec",[2412-D],49,37,,,
+1,"Région de Laval, Quebec",[2413-A],50,37,,,
+1,"Région de Lanaudière, Quebec",[2414-A],51,37,,,
+1,"Région des Laurentides, Quebec",[2415-A],52,37,,,
+1,"Région de la Montérégie, Quebec",[2416-A],53,37,,,
+1,"Ontario by Local Health Integration Network",[35],56,1,,8,
+1,"Erie St. Clair Health Integration Network, Ontario",[3501],57,56,,8,
+1,"South West Health Integration Network, Ontario",[3502],58,56,,8,
+1,"Waterloo Wellington Health Integration Network, Ontario",[3503],59,56,,8,
+1,"Hamilton Niagara Haldimand Brant Health Integration Network, Ontario",[3504],60,56,,8,
+1,"Central West Health Integration Network, Ontario",[3505],61,56,,8,
+1,"Mississauga Halton Health Integration Network, Ontario",[3506],62,56,,8,
+1,"Toronto Central Health Integration Network, Ontario",[3507],63,56,,8,
+1,"Central Health Integration Network, Ontario",[3508],64,56,,8,
+1,"Central East Health Integration Network, Ontario",[3509],65,56,,8,
+1,"South East Health Integration Network, Ontario",[3510],66,56,,8,
+1,"Champlain Health Integration Network, Ontario",[3511],67,56,,8,
+1,"North Simcoe Muskoka Health Integration Network, Ontario",[3512],68,56,,8,
+1,"North East Health Integration Network, Ontario",[3513],69,56,,8,
+1,"North West Health Integration Network, Ontario",[3514],70,56,,8,
+1,"Ontario by Health Unit",[35],71,1,,8,
+1,"District of Algoma Health Unit, Ontario",[3526-C],72,71,,,
+1,"Brant County Health Unit, Ontario",[3527-A],73,71,,,
+1,"Durham Regional Health Unit, Ontario",[3530-B],74,71,,,
+1,"Elgin-St. Thomas Health Unit, Ontario",[3531-A],75,71,,,
+1,"Grey Bruce Health Unit, Ontario",[3533-D],76,71,,,
+1,"Haldimand-Norfolk Health Unit, Ontario",[3534-A],77,71,,,
+1,"Haliburton, Kawartha, Pine Ridge District Health Unit, Ontario",[3535-A],78,71,,,
+1,"Halton Regional Health Unit, Ontario",[3536-B],79,71,,,
+1,"City of Hamilton Health Unit, Ontario",[3537-A],80,71,,,
+1,"Hastings and Prince Edward Counties Health Unit, Ontario",[3538-A],81,71,,,
+1,"Huron County Health Unit, Ontario",[3539-D],82,71,,,
+1,"Chatham-Kent Health Unit, Ontario",[3540-C],83,71,,,
+1,"Kingston, Frontenac and Lennox and Addington Health Unit, Ontario",[3541-A],84,71,,,
+1,"Lambton Health Unit, Ontario",[3542-A],85,71,,,
+1,"Leeds, Grenville and Lanark District Health Unit, Ontario",[3543-A],86,71,,,
+1,"Middlesex-London Health Unit, Ontario",[3544-A],87,71,,,
+1,"Niagara Regional Area Health Unit, Ontario",[3546-A],88,71,,,
+1,"North Bay Parry Sound District Health Unit, Ontario",[3547-C],89,71,,,
+1,"Northwestern Health Unit, Ontario",[3549-H],90,71,,,
+1,"City of Ottawa Health Unit, Ontario",[3551-B],91,71,,,
+1,"Oxford County Health Unit, Ontario",[3552-A],92,71,,,
+1,"Peel Regional Health Unit, Ontario",[3553-J],93,71,,,
+1,"Perth District Health Unit, Ontario",[3554-D],94,71,,,
+1,"Peterborough County-City Health Unit, Ontario",[3555-A],95,71,,,
+1,"Porcupine Health Unit, Ontario",[3556-C],96,71,,,
+1,"Renfrew County and District Health Unit, Ontario",[3557-D],97,71,,,
+1,"Eastern Ontario Health Unit, Ontario",[3558-A],98,71,,,
+1,"Simcoe Muskoka District Health Unit, Ontario",[3560-B],99,71,,,
+1,"Sudbury and District Health Unit, Ontario",[3561-C],100,71,,,
+1,"Thunder Bay District Health Unit, Ontario",[3562-C],101,71,,,
+1,"Timiskaming Health Unit, Ontario",[3563-C],102,71,,,
+1,"Waterloo Health Unit, Ontario",[3565-B],103,71,,,
+1,"Wellington-Dufferin-Guelph Health Unit, Ontario",[3566-B],104,71,,,
+1,"Windsor-Essex County Health Unit, Ontario",[3568-A],105,71,,,
+1,"York Regional Health Unit, Ontario",[3570-J],106,71,,,
+1,"City of Toronto Health Unit, Ontario",[3595-G],107,71,,,
+1,Manitoba,[46],108,1,,10,
+1,"Winnipeg Regional Health Authority, Manitoba",[4610-A],109,108,t,,
+1,"Brandon Regional Health Authority, Manitoba",[4615-A],110,108,t,,
+1,"North Eastman Regional Health Authority, Manitoba",[4620-D],111,108,t,,
+1,"South Eastman Regional Health Authority, Manitoba",[4625-E],112,108,t,,
+1,"Interlake Regional Health Authority, Manitoba",[4630-D],113,108,t,,
+1,"Central Regional Health Authority, Manitoba",[4640-D],114,108,t,,
+1,"Assiniboine Regional Health Authority, Manitoba",[4645-D],115,108,t,,
+1,"Parkland Regional Health Authority, Manitoba",[4660-H],116,108,t,,
+1,"NOR-MAN Regional Health Authority, Manitoba",[4670-H],117,108,t,,
+1,"Burntwood/Churchill, Manitoba",[4685-F],118,108,t,11;13,
+1,Saskatchewan,[47],121,1,,10,
+1,"Sun Country Regional Health Authority, Saskatchewan",[4701-D],122,121,,,
+1,"Five Hills Regional Health Authority, Saskatchewan",[4702-D],123,121,,,
+1,"Cypress Regional Health Authority, Saskatchewan",[4703-D],124,121,,,
+1,"Regina Qu'Appelle Regional Health Authority, Saskatchewan",[4704-A],125,121,,,
+1,"Sunrise Regional Health Authority, Saskatchewan",[4705-D],126,121,,,
+1,"Saskatoon Regional Health Authority, Saskatchewan",[4706-A],127,121,,,
+1,"Heartland Regional Health Authority, Saskatchewan",[4707-D],128,121,,,
+1,"Kelsey Trail Regional Health Authority, Saskatchewan",[4708-D],129,121,,,
+1,"Prince Albert Parkland Regional Health Authority, Saskatchewan",[4709-H],130,121,,,
+1,"Prairie North Regional Health Authority, Saskatchewan",[4710-H],131,121,,,
+1,"Mamawetan/Keewatin/Athabasca, Saskatchewan",[4714-F],132,121,,12,
+1,Alberta,[48],136,1,,85,
+1,"Chinook Regional Health Authority, Alberta",[4821-A],137,185,t,,
+1,"Palliser Health Region, Alberta",[4822-E],138,185,t,,
+1,"Calgary Health Region, Alberta",[4823-B],139,185,t,,
+1,"David Thompson Regional Health Authority, Alberta",[4824-E],140,185,t,,
+1,"East Central Health, Alberta",[4825-D],141,185,t,,
+1,"Capital Health, Alberta",[4826-B],142,185,t,,
+1,"Aspen Regional Health Authority, Alberta",[4827-E],143,185,t,,
+1,"Peace Country Health, Alberta",[4828-E],144,185,t,,
+1,"Northern Lights Health Region, Alberta",[4829-E],145,185,t,,
+1,"British Columbia",[59],146,1,,86,
+1,"East Kootenay Health Service Delivery Area, British Columbia",[5911-D],147,186,,,
+1,"Kootenay-Boundary Health Service Delivery Area, British Columbia",[5912-D],148,186,,,
+1,"Okanagan Health Service Delivery Area, British Columbia",[5913-A],149,186,,,
+1,"Thompson/Cariboo Health Service Delivery Area, British Columbia",[5914-A],150,186,,,
+1,"Fraser East Health Service Delivery Area, British Columbia",[5921-A],151,187,,,
+1,"Fraser North Health Service Delivery Area, British Columbia",[5922-J],152,187,,,
+1,"Fraser South Health Service Delivery Area, British Columbia",[5923-J],153,187,,,
+1,"Richmond Health Service Delivery Area, British Columbia",[5931-J],154,188,,,
+1,"Vancouver Health Service Delivery Area, British Columbia",[5932-G],155,188,,,
+1,"North Shore/Coast Garibaldi Health Service Delivery Area, British Columbia",[5933-J],156,188,,,
+1,"South Vancouver Island Health Service Delivery Area, British Columbia",[5941-A],157,189,,,
+1,"Central Vancouver Island Health Service Delivery Area, British Columbia",[5942-A],158,189,,,
+1,"North Vancouver Island Health Service Delivery Area, British Columbia",[5943-A],159,189,,,
+1,"Northwest Health Service Delivery Area, British Columbia",[5951-H],160,190,,,
+1,"Northern Interior Health Service Delivery Area, British Columbia",[5952-H],161,190,,,
+1,"Northeast Health Service Delivery Area, British Columbia",[5953-E],162,190,,,
+1,Yukon,[60],163,1,,58,
+1,Yukon,[6001-E],164,163,,58,
+1,"Northwest Territories",[61],165,1,,58,
+1,"Northwest Territories",[6101-E],166,165,,58,
+1,Nunavut,[62],167,1,,14;58,
+1,Nunavut,[6201-F],168,167,,14;58,
+1,"Peer group A",[A],169,1,,,
+1,"Peer group B",[B],170,1,,,
+1,"Peer group C",[C],171,1,,,
+1,"Peer group D",[D],172,1,,,
+1,"Peer group E",[E],173,1,,,
+1,"Peer group F",[F],174,1,,,
+1,"Peer group G",[G],175,1,,,
+1,"Peer group H",[H],176,1,,,
+1,"Peer group I",[I],177,1,,,
+1,"Peer group J",[J],179,1,,,
+1,"South Zone, Alberta",[4831-A],180,136,,,
+1,"Calgary Zone, Alberta",[4832-B],181,136,,,
+1,"Central Zone, Alberta",[4833-E],182,136,,,
+1,"Edmonton Zone, Alberta",[4834-B],183,136,,,
+1,"North Zone, Alberta",[4835-E],184,136,,,
+1,"Alberta by Regional Health Authority",[48],185,1,t,85,
+1,"Interior Health Authority, British Columbia",[5910],186,146,,86,
+1,"Fraser Health Authority, British Columbia",[5920],187,146,,86,
+1,"Vancouver Health Authority, British Columbia",[5930],188,146,,86,
+1,"Vancouver Island Health Authority, British Columbia",[5940],189,146,,86,
+1,"Northern Health Authority, British Columbia",[5950],190,146,,86,
+1,"Prince Edward Island",[1100-A],191,7,,,
+1,"Winnipeg Regional Health Authority, Manitoba",[4601-A],192,108,,11,
+1,"Prairie Mountain Health, Manitoba",[4602-D],193,108,,11,
+1,"Interlake-Eastern Regional Health Authority, Manitoba",[4603-E],194,108,,11,
+1,"Northern Regional Health Authority, Manitoba",[4604-F],195,108,,11,
+1,"Southern Health , Manitoba",[4605-D],196,108,,11,
+2,"Total, 12 years and over",,1,,,,
+2,"12 to 19 years",,2,1,,,
+2,"20 to 34 years",,3,1,,,
+2,"35 to 44 years",,4,1,,,
+2,"45 to 64 years",,5,1,,,
+2,"65 years and over",,6,1,,,
+3,"Both sexes",,1,,,,
+3,Males,,2,1,,,
+3,Females,,3,1,,,
+4,"Perceived health, very good or excellent",,1,,,16,
+4,"Perceived mental health, very good or excellent",,2,,,17,
+4,"Body mass index, self-reported, adult (18 years and over), overweight",,3,35,,40;41;42;43,
+4,"Body mass index, self-reported, adult (18 years and over), obese",,4,35,,40;41;42;43,
+4,Arthritis,,7,,,20;21,
+4,Diabetes,,8,,,22;23,
+4,Asthma,,9,,,24,
+4,"High blood pressure",,10,,,25,
+4,"Participation and activity limitation, sometimes or often",,13,,,27;88,
+4,"Current smoker, daily or occasional",,14,,,28;29;30;31;33;61,
+4,"5 or more drinks on one occasion, at least once a month in the past year",,16,,t,36;62,
+4,"Physical activity during leisure-time, moderately active or active",,17,,,38;39,
+4,"Perceived life stress, quite a lot (15 years and over)",,18,,,18;19,
+4,"Sense of belonging to local community, somewhat strong or very strong",,19,,,45,
+4,"Exposure to second-hand smoke at home",,20,,,32,
+4,"Exposure to second-hand smoke in the past month, in vehicles and/or public places",,21,,,34,
+4,"Influenza immunization, less than one year ago",,22,,,49;74,
+4,"Has a regular medical doctor",,25,,,46,
+4,"Contact with a medical doctor in the past 12 months",,27,,,47;48;88,
+4,"Exposure to second-hand smoke in the past month, in vehicles",,29,21,,34,
+4,"Exposure to second-hand smoke in the past month, in public places",,30,21,,34,
+4,"Pain or discomfort that prevents activities",,33,,,26,
+4,"Fruit and vegetable consumption, 5 times or more per day",,34,,,37,
+4,"Body mass index, self-reported, adult (18 years and over), overweight or obese",,35,,,40;41;42;43,
+4,"Perceived health, fair or poor",,36,,,16,
+4,"Perceived mental health, fair or poor",,37,,,17,
+4,"Pain or discomfort by severity, moderate or severe",,38,,,59,
+4,"Current smoker, daily",,39,14,,28;29;30;33;61,
+4,"Physical activity during leisure-time, inactive",,40,,,38;39,
+4,"Body mass index, self-reported, youth (12 to 17 years old), overweight or obese",,41,,,40;41;64,
+4,"Breastfeeding initiation",,42,,,65;67;88,
+4,"Exclusive breastfeeding, at least 6 months",,43,,,65;69;83;88;89,
+4,"Mood disorder",,44,,,70,
+4,"Life satisfaction, satisfied or very satisfied",,45,,,72;73,
+4,"Wears a helmet when riding a bicycle, always",,46,,,75;88,
+4,"Functional health, good to full",,47,,,76;77;78;88,
+4,"Injuries in the past 12 months causing limitation of normal activities",,48,,,80;88,
+4,"Injuries in the past 12 months, sought medical attention",,49,48,,79;80;88,
+4,"Chronic obstructive pulmonary disease (COPD)",,50,,,81,
+4,"Heavy drinking",,51,,,35,
+5,"Number of persons",,1,,,,
+5,"Low 95% confidence interval, number of persons",,2,,,,
+5,"High 95% confidence interval, number of persons",,3,,,,
+5,Percent,,5,,,,
+5,"Low 95% confidence interval, percent",,6,,,,
+5,"High 95% confidence interval, percent",,7,,,,
+5,"Statistically different from the Canada rate",,9,,,55,
+5,"Statistically different from the provincial rate",,10,,,55,
+5,"Statistically different from the peer group rate",,11,,,55,
+5,"Statistically different from previous reference period",,12,,,55,
+
+Symbol Legend
+Description,Symbol
+"not available for a specific reference period",..
+"less than the limit of detection",<LOD
+"value rounded to 0 (zero) where there is a meaningful distinction between true zero and the value that was rounded",0s
+"data quality: excellent",A
+"data quality: very good",B
+"data quality: good",C
+"data quality: acceptable",D
+"use with caution",E
+"too unreliable to be published.",F
+"not applicable",...
+preliminary,p
+revised,r
+"suppressed to meet the confidentiality requirements of the Statistics Act",x
+terminated,t
+
+"Survey Code","Survey Name"
+3226,"Canadian Community Health Survey - Annual Component"
+
+"Subject Code","Subject Name"
+13,Health
+
+"Note ID",Note
+1,"Source: Statistics Canada, Canadian Community Health Survey (CCHS). Table 13-10-0452-01 is an update of table 13-10-0086-01."
+2,"Health regions are administrative areas defined by provincial ministries of health according to provincial legislation. The health regions presented in this table are based on boundaries and names in effect as of December 2013. For complete Canadian coverage, each northern territory represents a health region."
+3,"Peer groups are aggregations of health regions that share similar socio-economic and demographic characteristics, based on 2006 Census data. These are useful in the analysis of health regions, where important differences may be detected by comparing health regions within a peer group. The ten peer groups are identified by the letters A through J, which are appended to the health region 4-digit code. Caution should be taken when comparing data for the peer groups over time due to changes in the peer groups. For more information on the peer groups classification, consult Statistics Canada's publication ""Health Indicators"" (catalogue number 82-221-XWE)."
+4,"Data for Prince Edward Island were released for four Health Regions from 2001 to 2005. Following the abandonment of the P.E.I. regional administrative structure in 2005, the data were then released by Statistics Canada based on the three counties in the province. As of June 2012, only estimates at the provincial level are available for all years in P.E.I."
+5,"Minor name changes have been made to Nova Scotia health regions. For example, Zone 1 is now called South Shore/South West Nova while DHA 9 is now referred to as the Capital District Health Authority. For more information consult Statistics Canada's publication ""Health Regions: Boundaries and Correspondence with Census Geography"" (catalogue number 82-402-XWE)."
+6,"The province of New Brunswick has made minor name changes to its health regions. ""Regions"" are now referred to as ""Zones"". In addition, a descriptive name for each Zone has been added. For example, Zone 1 will now be referred to as ""Zone 1 (Moncton)"". In February 2006 a small boundary change in New Brunswick occurred: Cambridge-Narrows village (population 717) was reassigned from Region 2 to Region 3. For more information consult Statistics Canada's publication ""Health Regions: Boundaries and Correspondence with Census Geography"" (catalogue number 82-402-XWE)."
+7,"No data available for ""Région du Nunavik"" and ""Région des Terres-Cries-de-la-Baie-James""."
+8,"In Ontario, Public Health Units (PHU) administer health promotion and disease prevention programs. Local Health Integration Networks (LHIN) are responsible for planning, funding and administering health care programs and services across the province. Data are provided for both PHUs and LHINs. However, since the weights for the Canadian Community Health Survey sample are primarily based on PHUs, only estimates for rates (percentages) are available by LHIN in the profile. Special LHIN weights are available upon request. These weights will allow for more precise estimation at the LHIN level including the estimation of totals."
+10,"In Manitoba and Saskatchewan, health regions are referred to as Health Authorities (HA) or Regional Health Authorities (RHA)."
+11,"As a result of changes to Health Region geography in Manitoba in 2012, data from 2012 onward will be presented by Regional Health Authority (RHA). The 11 Health Regions in Manitoba were merged into 5 RHAs as follows: Winnipeg RHA (4610A) and Churchill RHA (4690 F) were merged to form Winnipeg RHA (4601 A); Assiniboine RHA (4645 D), Parkland RHA (4660 D) and Brandon RHA (4615 A) were merged to form Prairie Mountain Health (4602 D); Interlake RHA (4630 E) and North Eastman RHA (4620 E) were merged to form Interlake-Eastern RHA (4603 E); NOR-MAN RHA, (4670 H) and Burntwood RHA (4680 F) were merged to form Northern RHA (4604 F); and Central RHA (4640 D) and South Eastman RHA (4625 E) were merged to form Southern Health (4605 D)."
+12,"To avoid data suppression, northern regions in Saskatchewan have been grouped with neighbouring regions, as follows: Athabasca Health Authority (4713) is combined with Mamawetan Churchill River Regional Health Authority (4711) and Keewatin Yatthé Regional Health Authority (4712) and referred to as Mamawetan/Keewatin/Athabasca (4714)."
+13,"Prior to 2012, to avoid data suppression, northern regions in Manitoba have been grouped with neighbouring regions, as follows: Churchill Regional Health Authority (4690) is combined with Burntwood Regional Health Authority (4680) and referred to as Burntwood/Churchill (4685)."
+14,"In Nunavut, starting in 2013, the coverage was expanded to represent 92% of the targeted population. Before 2013, the coverage was 71% since the survey covered only the 10 largest communities."
+16,"Population aged 12 and over who reported perceiving their own health status as being either excellent or very good or fair or poor, depending on the indicator. Perceived health refers to the perception of a person's health in general, either by the person himself or herself, or, in the case of proxy response, by the person responding. Health means not only the absence of disease or injury but also physical, mental and social well being."
+17,"Population aged 12 and over who reported perceiving their own mental health status as being excellent or very good or fair or poor, depending on the indicator. Perceived mental health refers to the perception of a person's mental health in general. Perceived mental health provides a general indication of the population suffering from some form of mental disorder, mental or emotional problems, or distress, not necessarily reflected in perceived health."
+18,"Data for this indicator are collected from population aged 15 years and over only."
+19,"Population aged 15 and over who reported perceiving that most days in their life were quite a bit or extremely stressful. Perceived life stress refers to the amount of stress in the person's life, on most days, as perceived by the person or, in the case of proxy response, by the person responding."
+20,"Population aged 15 and over who reported that they have been diagnosed by a health professional as having arthritis."
+21,"Arthritis includes rheumatoid arthritis and osteoarthritis, but excludes fibromyalgia. In the 2011 French questionnaire, the word ""arthrose"" was added to the arthritis question as respondents tend to associate the word ""arthrite"" with rheumatoid arthritis and ""arthrose"" with degenerative arthritis. This lead to an increase in reported arthritis for 2011. However, the word ""arthrose"" was then omitted from the question in 2012, leading to a decrease in the reported arthritis estimates for the province of Quebec and subsequently at the national level. Therefore, the data for the arthritis indicator in 2011 should be used with caution."
+22,"Population aged 12 and over who reported that they have been diagnosed by a health professional as having Type 1 or Type 2 diabetes."
+23,"Diabetes includes females 15 and over who reported that they have been diagnosed with gestational diabetes."
+24,"Population aged 12 and over who reported that they have been diagnosed by a health professional as having asthma."
+25,"Population aged 12 and over who reported that they have been diagnosed by a health professional as having high blood pressure."
+26,"Population aged 12 and over who reported having pain or discomfort that prevents activities."
+27,"Population aged 12 and over who reported being limited in selected activities (home, school, work and other activities) because of a physical condition, mental condition or health problem which has lasted or is expected to last 6 months or longer."
+28,"Population aged 12 and over who reported being a current smoker."
+29,"Daily smoker refers to those who reported smoking cigarettes every day."
+30,"Does not take into account the number of cigarettes smoked."
+31,"Occasional smoker refers to those who reported smoking cigarettes occasionally. This includes former daily smokers who now smoke occasionally."
+32,"Non-smoking population aged 12 and over who reported that at least one person smoked inside their home every day or almost every day. Smoking inside the home excludes smoking inside the garage, whether attached or detached."
+33,"Data collected for this indicator is based on the question referring to smoking of cigarettes only. Note that data on smoking alternative tobacco products is captured in a different module (TAL)."
+34,"Non-smoking population aged 12 and over who reported being exposed to second-hand smoke in private vehicles and/or public places on every day or almost every day in the past month."
+35,"A definition change was implemented in 2013 to conform with the World Health Organization (WHO) and Health Canada guidelines for Heavy drinking. Heavy drinking refers to males who reported having 5 or more drinks, or women who reported having 4 or more drinks, on one occasion, at least once a month in the past year. While this indicator remains comparable for males to the 5 or more drinks indicator published in previous years, it is no longer comparable for females."
+36,"Population aged 12 and over who reported having 5 or more drinks on one occasion, at least once a month in the past year."
+37,"Indicates the usual number of times (frequency) per day a person reported eating fruits and vegetables. Measure does not take into account the amount consumed."
+38,"Population aged 12 and over who reported the nature, frequency and duration of their participation in leisure-time physical activity."
+39,"Respondents are classified as active, moderately active or inactive based on an index of average daily physical activity over the past 3 months. For each leisure time physical activity the respondent is engaged in, an average daily energy expenditure is calculated by multiplying the number of times the activity was performed by the average duration of the activity by the energy cost (kilocalories per kilogram of body weight per hour) of the activity. The index is calculated as the sum of the average daily energy expenditures of all activities. Respondents are classified as follows: 3.0 kcal/kg/day or more = physically active; 1.5 to 2.9 kcal/kg/day = moderately active; less than 1.5 kcal/kg/day = inactive."
+40,"Body mass index (BMI) is a method of classifying body weight according to health risk. According to the World Health Organization (WHO) and Health Canada guidelines, health risk levels are associated with each of the following BMI categories: normal weight = least health risk; underweight and overweight = increased health risk; obese, class I = high health risk; obese, class II = very high health risk; obese, class III = extremely high health risk."
+41,"Body mass index (BMI) is calculated by dividing the respondent's body weight (in kilograms) by their height (in metres) squared."
+42,"A definition change was implemented in 2004 to conform with the World Health Organization (WHO) and Health Canada guidelines for body weight classification. The index is calculated for the population aged 18 and over, excluding pregnant females and persons less than 3 feet (0.914 metres) tall or greater than 6 feet 11 inches (2.108 metres)."
+43,"According to the World Health Organization (WHO) and Health Canada guidelines, the index for body weight classification is: less than 18.50 (underweight); 18.50 to 24.99 (normal weight); 25.00 to 29.99 (overweight); 30.00 to 34.99 (obese, class I); 35.00 to 39.99 (obese, class II); 40.00 or greater (obese, class III)."
+45,"Population aged 12 and over who reported their sense of belonging to their local community as being very strong or somewhat strong. Research shows a high correlation of sense of community-belonging with physical and mental health."
+46,"Population aged 12 and over who reported that they have a regular medical doctor. In 2005 and 2003, the indicator in French only included ""médecin de famille"". Starting in 2007, this concept was widened to ""médecin régulier"", which includes ""médecin de famille""."
+47,"Population aged 12 and over who reported having consulted with a medical doctor in the past 12 months."
+48,"Medical doctor includes family or general practitioners as well as specialists such as surgeons, allergists, orthopaedists, gynaecologists or psychiatrists. For population aged 12 to 17, includes pediatricians."
+49,"Population aged 12 and over who reported when they had their last influenza immunization (flu shot)."
+50,"The confidence interval illustrates the degree of variability associated with a rate. Wide confidence intervals indicate high variability, thus, these rates should be interpreted with due caution. When comparing estimates, it is important to use confidence intervals to determine if differences between values are statistically significant."
+51,"Bootstrapping techniques were used to produce the 95% confidence intervals (CIs)."
+52,"Data with a coefficient of variation (CV) from 16.6% to 33.3% are identified as follows: (E) use with caution."
+53,"Data with a coefficient of variation (CV) greater than 33.3% were suppressed due to extreme sampling variability and are identified as follows: (F) too unreliable to be published."
+54,"The following standard symbols are used in this Statistics Canada table: (..) for figures not available for a specific reference period and (...) for figures not applicable."
+55,"This variable provides direction and statistical significance of the difference between estimates (p < 0.05). A value of +1 means the difference observed is significantly higher, -1 means the difference is significantly lower and 0 means the difference is not statistically significant."
+56,"Since 2009, all rates in this table are calculated excluding non-response categories (""refusal"", ""don't know"", and ""not stated"") in the denominator."
+57,"Since 2007, data for the Canadian Community Health Survey (CCHS) are collected yearly instead of every two years. While a sample of approximately 130,000 respondents were interviewed during the reference periods of 2003 and 2005, it has been changed to 65,000 respondents each year starting in 2007. Two indicator profiles based on CCHS content are available, featuring the same variables, geography and age breakdowns, but different reference periods. The table 13-10-0451-01 presents the most up-to-date population health estimates and will be updated yearly. The table 13-10-0452-01 presents estimates from two-year combined data. These estimates are less current than annual estimates, but have higher precision given the larger sample (less variability). Users should refer to the annual data table 13-10-0451-01 as the primary source for most current estimates from the survey as well as to obtain data from previous years. However, where data quality flags indicate suppression (F) or higher variability (E), the two-year data table 13-10-0452-01 should be used."
+58,"Beginning with the 2008 and 2007/2008 reference period, weighting controls on the proportion of Aboriginal and non-Aboriginal as well as capital and non-capital have been put in place for Yukon and the Northwest Territories. Similar controls for Inuit and non-Inuit have also been put in place for Nunavut for the same reference periods. This may affect some of the comparability to previous reference periods where no such controls were in place."
+59,"Population aged 12 and over who reported that they usually have pain or discomfort."
+61,"Statistics Canada has two main surveys that produce National and Provincial smoking rates. The Canadian Community Health Survey (CCHS), and the Canadian Tobacco, Alcohol and Drugs Survey (CTADS), which replaces the Canadian Tobacco Use Monitoring Survey (CTUMS) beginning in 2013. Users should be aware of a number of differences between CCHS and CTADS. CCHS collects information from respondents aged 12 and over, CTADS collects information from respondents aged 15 and over; the two surveys use different sampling frames; the annual sample for CTADS is 20,000 compared to 65,000 for CCHS; in CCHS, smoking questions are asked in the context of a wide range of health-related behaviours whereas in CTADS, all questions are related to the use of multiple products and substances with addictive properties. Although these factors can influence the estimates produced at a single point in time, the trends produced by the two surveys have been noted to be very consistent over time. Rather than comparing smoking rates produced from the two surveys, Statistics Canada advises users to choose a single source, based on their objectives, and to use that source consistently."
+62,"Starting in 2009, the denominator includes all respondents aged 12 and over. This change applies to rates from all years in this table. In data released before 2009, the denominator included only those respondents who reported having had at least one drink in the past 12 months. Increasing the population in the denominator reduces the estimate rates. This change was implemented to produce more comparable rates over time and is more consistent with methods used in calculating other indicators in this table."
+64,"Body mass index (BMI) for youths is different from that of adults as they are still maturing. This indicator classifies respondents aged 12 to 17 (except female respondents aged 15 to 17 who were pregnant or did not answer the pregnancy question) as ""obese"" or ""overweight"" according to the age- and sex-specific BMI cut-off points as defined by Cole and others. The Cole cut-off points have been applied to the Canadian Community Health Survey (CCHS) since 2005 and are based on pooled international data (Brazil, Great Britain, Hong Kong, Netherlands, Singapore and United States) for BMI and linked to the internationally accepted adult BMI cut-off points of 25 (overweight) and 30 (obese)."
+65,"Based on information provided by females aged 15 to 55 who had a baby in the last 5 years."
+67,"Initiated breastfeeding refers to mothers who breastfed or tried to breastfeed their last child even if only for a short time."
+69,"Exclusive breastfeeding refers to an infant receiving only breast milk, without any additional liquid (even water) or solid food."
+70,"Population aged 12 and over who reported that they have been diagnosed by a health professional as having a mood disorder, such as depression, bipolar disorder, mania or dysthymia."
+71,"Percentages are rounded to the nearest tenth. Numbers are rounded to the nearest unit."
+72,"Population aged 12 and over who reported being satisfied or very satisfied with their life in general."
+73,"In 2009, the question on life satisfaction was changed from a five-point answer category to an eleven-point scale. A grouped variable was developed to provide a concordance between the two scales and is now the basis for this indicator. Please see the variable GENGSWL in the derived variables documentation."
+74,"The 2009 data on flu shots may include H1N1 vaccines received in the Fall of 2009. In 2010, the word ""seasonal"" was added to the questions in order to collect the two types of vaccines separately. After 2010, the separate module on H1N1 vaccines is not asked as the H1N1 flu shot is now given in combination with the seasonal flu vaccine."
+75,"Population aged 12 and over who reported that they always wore a helmet when riding a bicycle in the last 12 months."
+76,"Population aged 12 and over reporting measures of overall functional health, based on 8 dimensions of functioning (vision, hearing, speech, mobility, dexterity, feelings, cognition and pain)."
+77,"Scores between 0.8 and 1.0 are considered to indicate good to full functional health; scores below 0.8 are considered to indicate moderate to poor functional health."
+78,"The Health Utility Index (HUI), developed at McMaster University's Centre for Health Economics and Policy Analysis, is based on the Comprehensive Health Status Measurement System (CHSMS)."
+79,"Population aged 12 and over who sustained injuries in the past 12 months and who sought medical attention from a health professional in the 48 hours following the injury."
+80,"Respondents aged 12 and over who sustained injuries in the past 12 months which were serious enough to limit normal activities. For those with more than one injury in the past 12 months, refers to ""the most serious injury"", as identified by the respondent. Repetitive strain injuries are not included."
+81,"Population aged 35 and over who reported being diagnosed by a health professional with chronic bronchitis, emphysema or chronic obstructive pulmonary disease (COPD)."
+83,"Starting in 2010, data for this indicator have been updated for all years included in this table. The numerator includes mothers who have exclusively breastfed for at least 6 months and who may or may not be still breastfeeding. The denominator includes all mothers who had a baby in the past 5 years but excludes mothers who were still breastfeeding and who had not introduced any other liquids or solid foods to the baby's feeds. Previously, this indicator included in the numerator, only mothers who had stopped breastfeeding and for whom we knew they had introduced other liquids or solid foods to the baby's feeds when the baby was 6 months or more. The denominator included mothers who had stopped breastfeeding and for whom we knew when they had introduced other liquids or solid foods to the baby's feeds. This modification will produce lower rates of 6 months exclusive breastfeeding as mothers who have had a baby in the past 5 years and have not breastfed are now included in the denominator. This change was implemented to produce more comparable rates over time and is more consistent with methods used in calculating other indicators."
+84,"Starting with the 2010 and 2009/2010 Canadian Community Health Survey (CCHS) datasets, the 2006 Census population counts have been used to produce the population projection counts. These counts are used to ensure that the CCHS survey weights and resulting estimates included in this table are consistent with known population totals. Prior to 2010, 2001 Census population counts were used. Evaluation studies have confirmed that the impact of this change on CCHS estimates should be minimal."
+85,"Beginning in June 2012, data for Alberta are presented for the five current zones. For more information consult Statistics Canada's publication ""Health Regions: Boundaries and Correspondence with Census Geography"" (catalogue number 82-402-XWE)."
+86,"In the Fall of 2011, a Health Authority level of geography was added for the province of British Columbia. These five Health Authorities are a grouping of the province's health regions."
+87,"Since March 2012, the coefficient of variation characteristic (CV) are no longer available on tables 13-10-0451-01 and 13-10-0452-01. Data quality flags ('E' use with caution and 'F' too unreliable to be published), which are based on CVs, are still applied to counts and percentages when appropriate."
+88,"This indicator is derived from data collected from an optional content module. Only provincial and sub-provincial estimates are available for years when the module was selected by a given province. National estimates are not available unless the module became part of biennial or quadrennial common content blocks in a given survey year. Please refer to the document ""CCHS content overview"" available for the survey under the documentation section of the Definitions, data sources and methods page on the Statistics Canada website."
+89,"In the 2011 questionnaire, in order to improve the quality of the data, the question measuring when other liquids or solids were introduced to the baby's feeds was split into two separate questions. One addresses the addition of other liquids and the other addresses the addition of other solids to the baby's feeds."
+90,"On April 22, 2016, the values (1,-1 or 0) indicating statistically different from the provincial rate for the five British Columbia health authorities (5910, 5920, 5930, 5940, 5950) for 2011-2012 and 2013-2014 were revised."
+91,"Due to changes in content and methodology, this table will now only be made available for historical revisions. In place of this table, please consult table 13-10-0113-01. As a result of the changes, users should use caution when comparing data in this table with the data in 13-10-0113-01."
+
+"Correction ID","Correction Date","Correction Note"
+973,2016-04-22,"<p>On April 22, 2016, the values (1,-1 or 0) indicating statistically different from the provincial rate for the five British Columbia health authorities (5910, 5920, 5930, 5940, 5950) for 2012, 2013, and 2014 were revised.<br></p>"
+975,2016-04-22,"<p>On April 22, 2016, the values (1,-1 or 0) indicating statistically different from the provincial rate for the five British Columbia health authorities (5910, 5920, 5930, 5940, 5950) for 2012, 2013, and 2014 were revised.<br></p>"
+
